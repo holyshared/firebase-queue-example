@@ -2,8 +2,9 @@
   "name": "firebase-queue-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/worker.js",
   "scripts": {
+    "start": "node lib/worker.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

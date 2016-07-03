@@ -1,0 +1,27 @@
+{
+  "name": "firebase-queue-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holyshared/firebase-queue-example.git"
+  },
+  "author": "Noritaka Horio <holy.shared.design@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holyshared/firebase-queue-example/issues"
+  },
+  "homepage": "https://github.com/holyshared/firebase-queue-example#readme",
+  "dependencies": {
+    "firebase": "^3.1.0",
+    "firebase-queue": "^1.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "power-assert": "^1.4.1"
+  }
+}
